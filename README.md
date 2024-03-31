@@ -11,7 +11,3 @@ Steps to use this :
 5. Done :)
 
 Script might work slow. But will do the job for you.
-
-
-
-p.s (it will bypass mega storage quota limit too and you can upload to your mega account even if it's full)
